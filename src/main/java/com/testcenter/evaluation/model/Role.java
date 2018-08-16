@@ -7,7 +7,7 @@ import java.util.Set;
  * @author u6031313
  */
 @Entity
-@Table(name = "role")
+@Table(name = "roles")
 public class Role {
     private Long id;
     private String name;
